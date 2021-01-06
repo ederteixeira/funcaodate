@@ -1,0 +1,51 @@
+body {
+    align-items: center;
+    margin: 0px;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.box {
+    width: 600px;
+    height: 300px;
+    background: #fff;
+}
+
+.relogio {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.btn {
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao {
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    color: blueviolet;
+    padding: 8px;
+}
+
+.botao:hover {
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+}
