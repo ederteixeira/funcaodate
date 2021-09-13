@@ -1,6 +1,9 @@
-# Teste da função DATE em Js.
+# Função DATE em Js.
 
-Testando a opção da função de data.
+#### Descrição:
+* Testando a opção de data em Javascript.
 
 Link: <https://ederteixeira.github.io/funcaodate/>
 
+#### Função:
+* Date
